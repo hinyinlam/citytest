@@ -8,7 +8,7 @@ public class VersionController {
 
     @RequestMapping("/version")
     public String index() {
-        return "v1.9-hinlam";
+        return "v2.0-hinlam";
     }
 }
 
